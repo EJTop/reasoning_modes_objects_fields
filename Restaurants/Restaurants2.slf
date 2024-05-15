@@ -1,0 +1,72 @@
+[Lattice]
+22
+22
+[Objects]
+Villeray
+Crémazie
+François-Perrault
+Gabriel-Sagard
+Parc-Extension
+Parc-Jarry
+René-Goupil
+Sainte-Lucie
+African
+Café
+East Asian
+Fast Food
+French
+Iberian
+Italian
+Latin
+Mediterranean
+Middle Eastern
+Pizza
+South Asian
+South-East Asian
+Cuisine
+[Attributes]
+Villeray
+Crémazie
+François-Perrault
+Gabriel-Sagard
+Parc-Extension
+Parc-Jarry
+René-Goupil
+Sainte-Lucie
+African
+Café
+East Asian
+Fast Food
+French
+Iberian
+Italian
+Latin
+Mediterranean
+Middle Eastern
+Pizza
+South Asian
+South-East Asian
+Cuisine
+[relation]
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 
+0 0 1 0 0 0 0 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 
+0 0 0 1 0 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 1 1 
+0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 
+0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 
+0 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

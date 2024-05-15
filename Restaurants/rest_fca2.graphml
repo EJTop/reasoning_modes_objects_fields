@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="objects" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="  '''''',,-CJPVaaaaceeiillmrrrrryyz{}">
+      <data key="d0">{'Crmazie', 'Parc-Jarry', 'Villeray'}</data>
+    </node>
+    <node id="              '''''''''''''''''''''',,,,,,,,,,-AAACEEEFFFIILMPSaaaaaaaaaaaaabccdddeeeeffhhiiiiiiiillnnnnnnnnooorrrrsssssstttttttuzz{}">
+      <data key="d0">{'French', 'African', 'Italian', 'Pizza', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'Iberian', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="    '''''''''',,,,---EFGMPPSVaaaaaaaaabcddeeeeeeegiiiiillllnnnnnoorrrrrrrrrsstttuxy{}">
+      <data key="d0">{'Franois-Perrault', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Mediterranean'}</data>
+    </node>
+    <node id="''Maadeeeinnrrt{}">
+      <data key="d0">{'Mediterranean'}</data>
+    </node>
+    <node id="  '''''',,--EGPSVaaaaabcdeeegiiilllnnorrrrstxy{}">
+      <data key="d0">{'Gabriel-Sagard', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="         '''''''''''''',,,,,,-ACEEFFFLMMSaaaaaaaacddddeeeeeefhhiiiilnnnnnnooorrrrssssttttttu{}">
+      <data key="d0">{'French', 'Fast Food', 'Caf', 'South-East Asian', 'Mediterranean', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="       '''''''''''''''',,,,,,,------CEFGGJLPPPRSSVaaaaaaaaaaabcccdeeeeeeeegiiiiiiiilllllmnnnnnoooprrrrrrrrrrrsstttuuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Ren-Goupil', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie', 'Franois-Perrault'}</data>
+    </node>
+    <node id="  '''',ELMaaddeeiilnnrstt{}">
+      <data key="d0">{'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="         '''''''''''''''''',,,,,,,,------CEEFGGJLMPPPRSSVaaaaaaaaaaaabcccdddeeeeeeeeeegiiiiiiiiillllllmnnnnnnoooprrrrrrrrrrrrsssttttuuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Ren-Goupil', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie', 'Middle Eastern', 'Franois-Perrault'}</data>
+    </node>
+    <node id=" ''EMaddeeilnrst{}">
+      <data key="d0">{'Middle Eastern'}</data>
+    </node>
+    <node id="''Vaeillry{}">
+      <data key="d0">{'Villeray'}</data>
+    </node>
+    <node id="                         '''''''''''''''''''''''''''''''''''''''''',,,,,,,,,,,,,,,,,,,,-------AAAACCEEEEFFFFGGIIJLLMMPPPPRSSSSVaaaaaaaaaaaaaaaaaaaaaaaaaaabbcccccdddddeeeeeeeeeeeeeeeffghhhiiiiiiiiiiiiiiiiiilllllllmnnnnnnnnnnnnnnnnoooooooprrrrrrrrrrrrrrrrrsssssssssttttttttttttuuuuuxyyzzz{}">
+      <data key="d0">{'Crmazie', 'African', 'South Asian', 'Villeray', 'Pizza', 'Parc-Extension', 'Gabriel-Sagard', 'Sainte-Lucie', 'Iberian', 'Latin', 'Mediterranean', 'French', 'Ren-Goupil', 'Italian', 'South-East Asian', 'Caf', 'Parc-Jarry', 'Middle Eastern', 'Fast Food', 'Franois-Perrault', 'East Asian'}</data>
+    </node>
+    <node id="   '''''''',,,--CJLPSVaaaaacceeeeiiiillmnrrrrrtuyyz{}">
+      <data key="d0">{'Crmazie', 'Parc-Jarry', 'Sainte-Lucie', 'Villeray'}</data>
+    </node>
+    <node id="            '''''''''''''''''',,,,,,,,-AAACEEEFFFILMSaaaaaaaaaaaccdddeeeffhhiiiiiillnnnnnnnooorrrsssssstttttttu{}">
+      <data key="d0">{'French', 'African', 'Italian', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="  '''''',,--EJPPVaaaacceeiillnnorrrrrstxyy{}">
+      <data key="d0">{'Parc-Jarry', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="            '''''''''''''''''',,,,,,,,-AACEEFFFILMPSSaaaaaaaaabcdddeeeefhhhiiiiiilnnnnnnoooorrrsssssttttttuuzz{}">
+      <data key="d0">{'French', 'South Asian', 'Pizza', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'Iberian', 'Latin'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,----CEFGJPPPRVaaaaaaacceeeeeiiiiillllmnnnnoooprrrrrrrrrssttuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Ren-Goupil', 'Villeray', 'Parc-Extension', 'Parc-Jarry'}</data>
+    </node>
+    <node id="   '''''',,ELMPaaaddeeiiilnnrsttzz{}">
+      <data key="d0">{'Latin', 'Pizza', 'Middle Eastern'}</data>
+    </node>
+    <node id="  '''''',,--JLPSVaaaacceeeiiillnrrrrtuyy{}">
+      <data key="d0">{'Parc-Jarry', 'Sainte-Lucie', 'Villeray'}</data>
+    </node>
+    <node id="              '''''''''''''''''''',,,,,,,,,-AAAACEEEFFFILMSSaaaaaaaaaaaaccdddeeeffhhhiiiiiiillnnnnnnnnoooorrrsssssssttttttttuu{}">
+      <data key="d0">{'French', 'African', 'South Asian', 'Italian', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id=" '''',-JPVaaaceillrrrryy{}">
+      <data key="d0">{'Parc-Jarry', 'Villeray'}</data>
+    </node>
+    <node id="                 '''''''''''''''''''''''''',,,,,,,,,,,,--AAAACEEEFFFIIJLMPPSSaaaaaaaaaaaaaaaabcccdddeeeeffhhhiiiiiiiiillnnnnnnnnnoooorrrrrrrsssssssttttttttuuyzz{}">
+      <data key="d0">{'French', 'African', 'South Asian', 'Italian', 'Pizza', 'South-East Asian', 'Caf', 'Parc-Jarry', 'Middle Eastern', 'Fast Food', 'Iberian', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="        '''''''''''''''',,,,,,,------ACEEFGJLPPPSSSVaaaaaaaaaaaaabcccdeeeeeeeghiiiiiiiillllmnnnnnooorrrrrrrrrrrsssstttttuuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'South-East Asian', 'Parc-Jarry', 'Sainte-Lucie', 'Franois-Perrault'}</data>
+    </node>
+    <node id=" ''-AESaahinossttu{}">
+      <data key="d0">{'South-East Asian'}</data>
+    </node>
+    <node id="       '''''''''''''',,,,,,----ACEFGJLPPSSVaaaaaaaaaaaabccdeeeeeegiiiiiiillllmnnnorrrrrrrrrrssstttuuyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Villeray', 'East Asian', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id=" ''AEaainsst{}">
+      <data key="d0">{'East Asian'}</data>
+    </node>
+    <node id="        '''''''''''''''',,,,,,,-----CEFFFGJLPPPSSVaaaaaaaaaaaabcccddeeeeeeegiiiiiiillllmnnnnoooorrrrrrrrrrrsssttttuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie', 'Fast Food', 'Franois-Perrault'}</data>
+    </node>
+    <node id=" ''FFadoost{}">
+      <data key="d0">{'Fast Food'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,----CEGJLPPSSVaaaaaaaaabcccdeeeeeegiiiiiilllmnnnorrrrrrrrsttuxyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="        '''''''''''',,,,,-ACEEFFFLMSaaaaaacdddeeefhhiiilnnnnooorrsssstttttu{}">
+      <data key="d0">{'French', 'Fast Food', 'Caf', 'South-East Asian', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="   '''''''',,,--CEJPPVaaaaacceeeiiillmnnorrrrrrstxyyz{}">
+      <data key="d0">{'Crmazie', 'Parc-Jarry', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="          '''''''''''''''',,,,,,,-ACEEFFFILMPSaaaaaaaabcdddeeeefhhiiiiilnnnnnooorrrsssstttttuzz{}">
+      <data key="d0">{'French', 'Pizza', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'Iberian', 'Latin'}</data>
+    </node>
+    <node id="      '''''''''''''',,,,,,-----CEFGJLPPPSSVaaaaaaaaaaabcccdeeeeeeegiiiiiiillllmnnnnoorrrrrrrrrrrsstttuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="       '''''''''',,,,-ACEEFFLMSaaaaaadddeefhiiilnnnooorsssstttttu{}">
+      <data key="d0">{'Fast Food', 'Caf', 'South-East Asian', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="     '''''''''',,,,---AEJLPPSSVaaaaaaccceeeehiiiiillnnnnoorrrrrsstttuuxyy{}">
+      <data key="d0">{'South Asian', 'Villeray', 'Parc-Extension', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id=" ''ASahinostu{}">
+      <data key="d0">{'South Asian'}</data>
+    </node>
+    <node id="  '''''',,--FGPSVaaaaaabdeeegiiillllnorrrrrrstuy{}">
+      <data key="d0">{'Gabriel-Sagard', 'Franois-Perrault', 'Villeray'}</data>
+    </node>
+    <node id="          '''''''''''''',,,,,,-AACEEEFFLMMSaaaaaaaaaaddddeeeeefhiiiiilnnnnnnooorrrsssssstttttttu{}">
+      <data key="d0">{'Fast Food', 'Caf', 'South-East Asian', 'East Asian', 'Mediterranean', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="       '''''''''''''''',,,,,,,-----CCEFGJLPPPSSVaaaaaaaaaaaabcccdeeeeeeefgiiiiiiillllmnnnnoorrrrrrrrrrrsstttuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Caf', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie', 'Franois-Perrault'}</data>
+    </node>
+    <node id="''Caf{}">
+      <data key="d0">{'Caf'}</data>
+    </node>
+    <node id="  '''''',,--EFPPVaaaaceeeiiilllnnnoorrrrrssttuxy{}">
+      <data key="d0">{'Franois-Perrault', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="          '''''''''''''''',,,,,,,-ACEEFFILMMPSaaaaaaaaaabddddeeeeeefhiiiiiilnnnnnnooorrrrssssttttttuzz{}">
+      <data key="d0">{'Pizza', 'South-East Asian', 'Caf', 'Mediterranean', 'Middle Eastern', 'Fast Food', 'Iberian', 'Latin'}</data>
+    </node>
+    <node id="      '''''''''''''',,,,,,----CEFGJLPPSSVaaaaaaaaabccccdeeeeeeeghiiiiiilllmnnnnorrrrrrrrrsttuxyyz{}">
+      <data key="d0">{'Crmazie', 'French', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="''Fcehnr{}">
+      <data key="d0">{'French'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,---ACFJLPPSVaaaaaaaaccceeeeefiiiiiilllmnnnorrrrrrrrrsttuuyyz{}">
+      <data key="d0">{'Crmazie', 'African', 'Franois-Perrault', 'Villeray', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="''Aacfinr{}">
+      <data key="d0">{'African'}</data>
+    </node>
+    <node id="   '''''''',,,--CFJPPVaaaaaaceeeiiilllmnorrrrrrrrstuyyz{}">
+      <data key="d0">{'Crmazie', 'Parc-Jarry', 'Villeray', 'Franois-Perrault'}</data>
+    </node>
+    <node id="            '''''''''''''''''',,,,,,,,-AAACEEEFFILMPSaaaaaaaaaaabcdddeeeffhiiiiiiilnnnnnnooorrrssssssttttttuzz{}">
+      <data key="d0">{'African', 'Pizza', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'Iberian', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="()est">
+      <data key="d0">set()</data>
+    </node>
+    <node id="    '''''''''',,,,---CEFJPPPVaaaaaaacceeeeiiiilllmnnnoorrrrrrrrrssttuxyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Villeray', 'Parc-Extension', 'Parc-Jarry'}</data>
+    </node>
+    <node id="         '''''''''''''',,,,,,-ACEEFFILMPSaaaaaaaabdddeeefhiiiiilnnnnooorrsssstttttuzz{}">
+      <data key="d0">{'Fast Food', 'Iberian', 'Pizza', 'South-East Asian', 'Caf', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id=" '''',-GRVaeeiilllnopruy{}">
+      <data key="d0">{'Villeray', 'Ren-Goupil'}</data>
+    </node>
+    <node id="    '''''''',,,-EGLMPRaaaddeeeiiiillnnnoprsttuzz{}">
+      <data key="d0">{'Latin', 'Ren-Goupil', 'Pizza', 'Middle Eastern'}</data>
+    </node>
+    <node id="    '''''''''',,,,---CFJLPPSVaaaaaaacceeeeeiiiiilllmnnorrrrrrrrsttuuyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Villeray', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="          '''''''''''''',,,,,,-AAACEEEFFLMSaaaaaaaaacdddeeffhiiiiilnnnnnooorrssssssttttttu{}">
+      <data key="d0">{'African', 'Fast Food', 'Caf', 'South-East Asian', 'East Asian', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="   '''''''',,,---EJLPPSVaaaaaccceeeeiiiillnnnorrrrrsttuxyy{}">
+      <data key="d0">{'Parc-Jarry', 'Sainte-Lucie', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="          '''''''''''''',,,,,,-AACEEFFFLMSSaaaaaaacdddeeefhhhiiiilnnnnnoooorrsssssttttttuu{}">
+      <data key="d0">{'French', 'Fast Food', 'South Asian', 'Caf', 'South-East Asian', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id=" '''',-LSVaaceeeiiillnrtuy{}">
+      <data key="d0">{'Sainte-Lucie', 'Villeray'}</data>
+    </node>
+    <node id="               '''''''''''''''''''''',,,,,,,,,,--AAAACEEEFFFILLMSSSaaaaaaaaaaaaacccdddeeeeeffhhhiiiiiiiiillnnnnnnnnnoooorrrssssssstttttttttuuu{}">
+      <data key="d0">{'French', 'African', 'South Asian', 'Italian', 'South-East Asian', 'Caf', 'Sainte-Lucie', 'Middle Eastern', 'Fast Food', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="        '''''''''''''''''',,,,,,,,------CEFGGJLLPPPRSSVaaaaaaaaaaaabcccdeeeeeeeegiiiiiiiiilllllmnnnnnnoooprrrrrrrrrrrssttttuuuxyyz{}">
+      <data key="d0">{'Crmazie', 'Ren-Goupil', 'Villeray', 'Parc-Extension', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie', 'Franois-Perrault', 'Latin'}</data>
+    </node>
+    <node id="''Laint{}">
+      <data key="d0">{'Latin'}</data>
+    </node>
+    <node id=" '''',-FPVaaaeeiilllnorrrrstuy{}">
+      <data key="d0">{'Franois-Perrault', 'Villeray'}</data>
+    </node>
+    <node id="              '''''''''''''''''''''',,,,,,,,,,--AAACEEEFFFILMMPPSaaaaaaaaaaaaaaabcddddeeeeeeeffhiiiiiiiiillnnnnnnnnnoooorrrrrrrrsssssssttttttttuuzz{}">
+      <data key="d0">{'African', 'Pizza', 'South-East Asian', 'Caf', 'Mediterranean', 'Middle Eastern', 'Fast Food', 'Iberian', 'Franois-Perrault', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="      '''''''''''''',,,,,,----CEFGJPPPPRVaaaaaaaacceeeeeiiiiiillllmnnnnoooprrrrrrrrrssttuuxyyzzz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Parc-Extension', 'Villeray', 'Ren-Goupil', 'Pizza', 'Parc-Jarry'}</data>
+    </node>
+    <node id="''Paizz{}">
+      <data key="d0">{'Pizza'}</data>
+    </node>
+    <node id=" '''',-GSVaaaabdeegiilllrrry{}">
+      <data key="d0">{'Gabriel-Sagard', 'Villeray'}</data>
+    </node>
+    <node id="             '''''''''''''''''''',,,,,,,,,--AACEEEFFFGILMMSSaaaaaaaaaaaaaaabcdddddeeeeeeefghhiiiiiiilllnnnnnnnnooorrrrrrssssssttttttttu{}">
+      <data key="d0">{'French', 'Italian', 'South-East Asian', 'Gabriel-Sagard', 'Caf', 'Mediterranean', 'Middle Eastern', 'Fast Food', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="    '''''''''',,,,---CGJLPSSVaaaaaaaabccdeeeeegiiiiilllmnrrrrrrrtuyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="           '''''''''''''''',,,,,,,-AACEEEFFFILMSaaaaaaaaaacdddeeefhhiiiiillnnnnnnooorrsssssstttttttu{}">
+      <data key="d0">{'French', 'Italian', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,---CGIJLPSSVaaaaaaaaaabccdeeeeegiiiiiillllmnnrrrrrrrttuyyz{}">
+      <data key="d0">{'Crmazie', 'Villeray', 'Italian', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="''Iaailnt{}">
+      <data key="d0">{'Italian'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,----CFGJLPPSSVaaaaaaaaaabccdeeeeeegiiiiiillllmnnorrrrrrrrrrsttuuyyz{}">
+      <data key="d0">{'Crmazie', 'Franois-Perrault', 'Villeray', 'Gabriel-Sagard', 'Parc-Jarry', 'Sainte-Lucie'}</data>
+    </node>
+    <node id="         '''''''''''',,,,,-AACEEEFFLMSaaaaaaaadddeefhiiiilnnnnooorssssssttttttu{}">
+      <data key="d0">{'Fast Food', 'Caf', 'South-East Asian', 'East Asian', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <node id="     '''''''''''',,,,,---CEFIJPPPVaaaaaaaabcceeeeeiiiiilllmnnnnoorrrrrrrrrrssttuxyyz{}">
+      <data key="d0">{'Crmazie', 'Iberian', 'Franois-Perrault', 'Villeray', 'Parc-Extension', 'Parc-Jarry'}</data>
+    </node>
+    <node id="''Iabeinr{}">
+      <data key="d0">{'Iberian'}</data>
+    </node>
+    <node id=" '''',-EPVaaceeiillnnorrstxy{}">
+      <data key="d0">{'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="              '''''''''''''''''''''',,,,,,,,,,--AACEEEFFFILMMPPSSaaaaaaaaaaaabccddddeeeeeeeefhhhiiiiiiiilnnnnnnnnnnooooorrrrrrssssssttttttttuuxzz{}">
+      <data key="d0">{'French', 'South Asian', 'Pizza', 'South-East Asian', 'Parc-Extension', 'Caf', 'Mediterranean', 'Middle Eastern', 'Fast Food', 'Iberian', 'Latin'}</data>
+    </node>
+    <node id=" '''',CVaaeeiillmrryz{}">
+      <data key="d0">{'Crmazie', 'Villeray'}</data>
+    </node>
+    <node id="               '''''''''''''''''''''''',,,,,,,,,,,-AAACCEEEFFFIILMPSaaaaaaaaaaaaaabccdddeeeeeffhhiiiiiiiiillmnnnnnnnnooorrrrrsssssstttttttuzzz{}">
+      <data key="d0">{'Crmazie', 'French', 'African', 'Italian', 'Pizza', 'South-East Asian', 'Caf', 'Middle Eastern', 'Fast Food', 'Iberian', 'East Asian', 'Latin'}</data>
+    </node>
+    <node id="   '''''''',,,---EFGPPSVaaaaaaabcdeeeegiiiillllnnnoorrrrrrrssttuxy{}">
+      <data key="d0">{'Gabriel-Sagard', 'Franois-Perrault', 'Villeray', 'Parc-Extension'}</data>
+    </node>
+    <node id="        '''''''''''',,,,,-ACEEFFLMMSaaaaaaaaddddeeeeefhiiiilnnnnnooorrrssssttttttu{}">
+      <data key="d0">{'Fast Food', 'Caf', 'South-East Asian', 'Mediterranean', 'Latin', 'Middle Eastern'}</data>
+    </node>
+    <edge source="  '''''',,-CJPVaaaaceeiillmrrrrryyz{}" target="              '''''''''''''''''''''',,,,,,,,,,-AAACEEEFFFIILMPSaaaaaaaaaaaaabccdddeeeeffhhiiiiiiiillnnnnnnnnooorrrrsssssstttttttuzz{}" />
+    <edge source="    '''''''''',,,,---EFGMPPSVaaaaaaaaabcddeeeeeeegiiiiillllnnnnnoorrrrrrrrrsstttuxy{}" target="''Maadeeeinnrrt{}" />
+    <edge source="  '''''',,--EGPSVaaaaabcdeeegiiilllnnorrrrstxy{}" target="         '''''''''''''',,,,,,-ACEEFFFLMMSaaaaaaaacddddeeeeeefhhiiiilnnnnnnooorrrrssssttttttu{}" />
+    <edge source="       '''''''''''''''',,,,,,,------CEFGGJLPPPRSSVaaaaaaaaaaabcccdeeeeeeeegiiiiiiiilllllmnnnnnoooprrrrrrrrrrrsstttuuuxyyz{}" target="  '''',ELMaaddeeiilnnrstt{}" />
+    <edge source="         '''''''''''''''''',,,,,,,,------CEEFGGJLMPPPRSSVaaaaaaaaaaaabcccdddeeeeeeeeeegiiiiiiiiillllllmnnnnnnoooprrrrrrrrrrrrsssttttuuuxyyz{}" target=" ''EMaddeeilnrst{}" />
+    <edge source="''Vaeillry{}" target="                         '''''''''''''''''''''''''''''''''''''''''',,,,,,,,,,,,,,,,,,,,-------AAAACCEEEEFFFFGGIIJLLMMPPPPRSSSSVaaaaaaaaaaaaaaaaaaaaaaaaaaabbcccccdddddeeeeeeeeeeeeeeeffghhhiiiiiiiiiiiiiiiiiilllllllmnnnnnnnnnnnnnnnnoooooooprrrrrrrrrrrrrrrrrsssssssssttttttttttttuuuuuxyyzzz{}" />
+    <edge source="                         '''''''''''''''''''''''''''''''''''''''''',,,,,,,,,,,,,,,,,,,,-------AAAACCEEEEFFFFGGIIJLLMMPPPPRSSSSVaaaaaaaaaaaaaaaaaaaaaaaaaaabbcccccdddddeeeeeeeeeeeeeeeffghhhiiiiiiiiiiiiiiiiiilllllllmnnnnnnnnnnnnnnnnoooooooprrrrrrrrrrrrrrrrrsssssssssttttttttttttuuuuuxyyzzz{}" target="()est" />
+    <edge source="   '''''''',,,--CJLPSVaaaaacceeeeiiiillmnrrrrrtuyyz{}" target="            '''''''''''''''''',,,,,,,,-AAACEEEFFFILMSaaaaaaaaaaaccdddeeeffhhiiiiiillnnnnnnnooorrrsssssstttttttu{}" />
+    <edge source="  '''''',,--EJPPVaaaacceeiillnnorrrrrstxyy{}" target="            '''''''''''''''''',,,,,,,,-AACEEFFFILMPSSaaaaaaaaabcdddeeeefhhhiiiiiilnnnnnnoooorrrsssssttttttuuzz{}" />
+    <edge source="     '''''''''''',,,,,----CEFGJPPPRVaaaaaaacceeeeeiiiiillllmnnnnoooprrrrrrrrrssttuuxyyz{}" target="   '''''',,ELMPaaaddeeiiilnnrsttzz{}" />
+    <edge source="  '''''',,--JLPSVaaaacceeeiiillnrrrrtuyy{}" target="              '''''''''''''''''''',,,,,,,,,-AAAACEEEFFFILMSSaaaaaaaaaaaaccdddeeeffhhhiiiiiiillnnnnnnnnoooorrrsssssssttttttttuu{}" />
+    <edge source=" '''',-JPVaaaceillrrrryy{}" target="                 '''''''''''''''''''''''''',,,,,,,,,,,,--AAAACEEEFFFIIJLMPPSSaaaaaaaaaaaaaaaabcccdddeeeeffhhhiiiiiiiiillnnnnnnnnnoooorrrrrrrsssssssttttttttuuyzz{}" />
+    <edge source="        '''''''''''''''',,,,,,,------ACEEFGJLPPPSSSVaaaaaaaaaaaaabcccdeeeeeeeghiiiiiiiillllmnnnnnooorrrrrrrrrrrsssstttttuuuxyyz{}" target=" ''-AESaahinossttu{}" />
+    <edge source="       '''''''''''''',,,,,,----ACEFGJLPPSSVaaaaaaaaaaaabccdeeeeeegiiiiiiillllmnnnorrrrrrrrrrssstttuuyyz{}" target=" ''AEaainsst{}" />
+    <edge source="        '''''''''''''''',,,,,,,-----CEFFFGJLPPPSSVaaaaaaaaaaaabcccddeeeeeeegiiiiiiillllmnnnnoooorrrrrrrrrrrsssttttuuxyyz{}" target=" ''FFadoost{}" />
+    <edge source="     '''''''''''',,,,,----CEGJLPPSSVaaaaaaaaabcccdeeeeeegiiiiiilllmnnnorrrrrrrrsttuxyyz{}" target="        '''''''''''',,,,,-ACEEFFFLMSaaaaaacdddeeefhhiiilnnnnooorrsssstttttu{}" />
+    <edge source="   '''''''',,,--CEJPPVaaaaacceeeiiillmnnorrrrrrstxyyz{}" target="          '''''''''''''''',,,,,,,-ACEEFFFILMPSaaaaaaaabcdddeeeefhhiiiiilnnnnnooorrrsssstttttuzz{}" />
+    <edge source="      '''''''''''''',,,,,,-----CEFGJLPPPSSVaaaaaaaaaaabcccdeeeeeeegiiiiiiillllmnnnnoorrrrrrrrrrrsstttuuxyyz{}" target="       '''''''''',,,,-ACEEFFLMSaaaaaadddeefhiiilnnnooorsssstttttu{}" />
+    <edge source="     '''''''''',,,,---AEJLPPSSVaaaaaaccceeeehiiiiillnnnnoorrrrrsstttuuxyy{}" target=" ''ASahinostu{}" />
+    <edge source="  '''''',,--FGPSVaaaaaabdeeegiiillllnorrrrrrstuy{}" target="          '''''''''''''',,,,,,-AACEEEFFLMMSaaaaaaaaaaddddeeeeefhiiiiilnnnnnnooorrrsssssstttttttu{}" />
+    <edge source="       '''''''''''''''',,,,,,,-----CCEFGJLPPPSSVaaaaaaaaaaaabcccdeeeeeeefgiiiiiiillllmnnnnoorrrrrrrrrrrsstttuuxyyz{}" target="''Caf{}" />
+    <edge source="  '''''',,--EFPPVaaaaceeeiiilllnnnoorrrrrssttuxy{}" target="          '''''''''''''''',,,,,,,-ACEEFFILMMPSaaaaaaaaaabddddeeeeeefhiiiiiilnnnnnnooorrrrssssttttttuzz{}" />
+    <edge source="      '''''''''''''',,,,,,----CEFGJLPPSSVaaaaaaaaabccccdeeeeeeeghiiiiiilllmnnnnorrrrrrrrrsttuxyyz{}" target="''Fcehnr{}" />
+    <edge source="     '''''''''''',,,,,---ACFJLPPSVaaaaaaaaccceeeeefiiiiiilllmnnnorrrrrrrrrsttuuyyz{}" target="''Aacfinr{}" />
+    <edge source="   '''''''',,,--CFJPPVaaaaaaceeeiiilllmnorrrrrrrrstuyyz{}" target="            '''''''''''''''''',,,,,,,,-AAACEEEFFILMPSaaaaaaaaaaabcdddeeeffhiiiiiiilnnnnnnooorrrssssssttttttuzz{}" />
+    <edge source="    '''''''''',,,,---CEFJPPPVaaaaaaacceeeeiiiilllmnnnoorrrrrrrrrssttuxyyz{}" target="         '''''''''''''',,,,,,-ACEEFFILMPSaaaaaaaabdddeeefhiiiiilnnnnooorrsssstttttuzz{}" />
+    <edge source=" '''',-GRVaeeiilllnopruy{}" target="    '''''''',,,-EGLMPRaaaddeeeiiiillnnnoprsttuzz{}" />
+    <edge source="    '''''''''',,,,---CFJLPPSVaaaaaaacceeeeeiiiiilllmnnorrrrrrrrsttuuyyz{}" target="          '''''''''''''',,,,,,-AAACEEEFFLMSaaaaaaaaacdddeeffhiiiiilnnnnnooorrssssssttttttu{}" />
+    <edge source="   '''''''',,,---EJLPPSVaaaaaccceeeeiiiillnnnorrrrrsttuxyy{}" target="          '''''''''''''',,,,,,-AACEEFFFLMSSaaaaaaacdddeeefhhhiiiilnnnnnoooorrsssssttttttuu{}" />
+    <edge source=" '''',-LSVaaceeeiiillnrtuy{}" target="               '''''''''''''''''''''',,,,,,,,,,--AAAACEEEFFFILLMSSSaaaaaaaaaaaaacccdddeeeeeffhhhiiiiiiiiillnnnnnnnnnoooorrrssssssstttttttttuuu{}" />
+    <edge source="        '''''''''''''''''',,,,,,,,------CEFGGJLLPPPRSSVaaaaaaaaaaaabcccdeeeeeeeegiiiiiiiiilllllmnnnnnnoooprrrrrrrrrrrssttttuuuxyyz{}" target="''Laint{}" />
+    <edge source=" '''',-FPVaaaeeiilllnorrrrstuy{}" target="              '''''''''''''''''''''',,,,,,,,,,--AAACEEEFFFILMMPPSaaaaaaaaaaaaaaabcddddeeeeeeeffhiiiiiiiiillnnnnnnnnnoooorrrrrrrrsssssssttttttttuuzz{}" />
+    <edge source="      '''''''''''''',,,,,,----CEFGJPPPPRVaaaaaaaacceeeeeiiiiiillllmnnnnoooprrrrrrrrrssttuuxyyzzz{}" target="''Paizz{}" />
+    <edge source=" '''',-GSVaaaabdeegiilllrrry{}" target="             '''''''''''''''''''',,,,,,,,,--AACEEEFFFGILMMSSaaaaaaaaaaaaaaabcdddddeeeeeeefghhiiiiiiilllnnnnnnnnooorrrrrrssssssttttttttu{}" />
+    <edge source="    '''''''''',,,,---CGJLPSSVaaaaaaaabccdeeeeegiiiiilllmnrrrrrrrtuyyz{}" target="           '''''''''''''''',,,,,,,-AACEEEFFFILMSaaaaaaaaaacdddeeefhhiiiiillnnnnnnooorrsssssstttttttu{}" />
+    <edge source="     '''''''''''',,,,,---CGIJLPSSVaaaaaaaaaabccdeeeeegiiiiiillllmnnrrrrrrrttuyyz{}" target="''Iaailnt{}" />
+    <edge source="     '''''''''''',,,,,----CFGJLPPSSVaaaaaaaaaabccdeeeeeegiiiiiillllmnnorrrrrrrrrrsttuuyyz{}" target="         '''''''''''',,,,,-AACEEEFFLMSaaaaaaaadddeefhiiiilnnnnooorssssssttttttu{}" />
+    <edge source="     '''''''''''',,,,,---CEFIJPPPVaaaaaaaabcceeeeeiiiiilllmnnnnoorrrrrrrrrrssttuxyyz{}" target="''Iabeinr{}" />
+    <edge source=" '''',-EPVaaceeiillnnorrstxy{}" target="              '''''''''''''''''''''',,,,,,,,,,--AACEEEFFFILMMPPSSaaaaaaaaaaaabccddddeeeeeeeefhhhiiiiiiiilnnnnnnnnnnooooorrrrrrssssssttttttttuuxzz{}" />
+    <edge source=" '''',CVaaeeiillmrryz{}" target="               '''''''''''''''''''''''',,,,,,,,,,,-AAACCEEEFFFIILMPSaaaaaaaaaaaaaabccdddeeeeeffhhiiiiiiiiillmnnnnnnnnooorrrrrsssssstttttttuzzz{}" />
+    <edge source="   '''''''',,,---EFGPPSVaaaaaaabcdeeeegiiiillllnnnoorrrrrrrssttuxy{}" target="        '''''''''''',,,,,-ACEEFFLMMSaaaaaaaaddddeeeeefhiiiilnnnnnooorrrssssttttttu{}" />
+  </graph>
+</graphml>

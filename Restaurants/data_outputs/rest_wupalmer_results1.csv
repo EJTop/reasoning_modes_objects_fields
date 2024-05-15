@@ -1,0 +1,442 @@
+c1,c2,c1_depth,c2_depth,lcs_depth,wupalmer
+Crmazie,Crmazie,9,9,9,1.0
+Crmazie,Villeray,9,10,9,0.9473684210526315
+Crmazie,Franois-Perrault,9,8,7,0.8235294117647058
+Crmazie,Sainte-Lucie,9,9,7,0.7777777777777778
+Crmazie,Parc-Jarry,9,9,8,0.8888888888888888
+Crmazie,African,9,2,2,0.36363636363636365
+Crmazie,Gabriel-Sagard,9,7,6,0.75
+Crmazie,Ren-Goupil,9,5,4,0.5714285714285714
+Crmazie,Parc-Extension,9,8,6,0.7058823529411765
+Crmazie,Pizza,9,2,2,0.36363636363636365
+Crmazie,Italian,9,2,2,0.36363636363636365
+Crmazie,French,9,2,2,0.36363636363636365
+Crmazie,Fast Food,9,2,2,0.36363636363636365
+Crmazie,South-East Asian,9,2,2,0.36363636363636365
+Crmazie,Mediterranean,9,2,1,0.18181818181818182
+Crmazie,East Asian,9,2,2,0.36363636363636365
+Crmazie,Iberian,9,2,2,0.36363636363636365
+Crmazie,Middle Eastern,9,2,2,0.36363636363636365
+Crmazie,Latin,9,2,2,0.36363636363636365
+Crmazie,Caf,9,2,2,0.36363636363636365
+Crmazie,South Asian,9,2,1,0.18181818181818182
+Villeray,Crmazie,10,9,9,0.9473684210526315
+Villeray,Villeray,10,10,10,1.0
+Villeray,Franois-Perrault,10,8,8,0.8888888888888888
+Villeray,Sainte-Lucie,10,9,9,0.9473684210526315
+Villeray,Parc-Jarry,10,9,9,0.9473684210526315
+Villeray,African,10,2,2,0.3333333333333333
+Villeray,Gabriel-Sagard,10,7,7,0.8235294117647058
+Villeray,Ren-Goupil,10,5,5,0.6666666666666666
+Villeray,Parc-Extension,10,8,8,0.8888888888888888
+Villeray,Pizza,10,2,2,0.3333333333333333
+Villeray,Italian,10,2,2,0.3333333333333333
+Villeray,French,10,2,2,0.3333333333333333
+Villeray,Fast Food,10,2,2,0.3333333333333333
+Villeray,South-East Asian,10,2,2,0.3333333333333333
+Villeray,Mediterranean,10,2,2,0.3333333333333333
+Villeray,East Asian,10,2,2,0.3333333333333333
+Villeray,Iberian,10,2,2,0.3333333333333333
+Villeray,Middle Eastern,10,2,2,0.3333333333333333
+Villeray,Latin,10,2,2,0.3333333333333333
+Villeray,Caf,10,2,2,0.3333333333333333
+Villeray,South Asian,10,2,2,0.3333333333333333
+Franois-Perrault,Crmazie,8,9,7,0.8235294117647058
+Franois-Perrault,Villeray,8,10,8,0.8888888888888888
+Franois-Perrault,Franois-Perrault,8,8,8,1.0
+Franois-Perrault,Sainte-Lucie,8,9,6,0.7058823529411765
+Franois-Perrault,Parc-Jarry,8,9,7,0.8235294117647058
+Franois-Perrault,African,8,2,2,0.4
+Franois-Perrault,Gabriel-Sagard,8,7,6,0.8
+Franois-Perrault,Ren-Goupil,8,5,4,0.6153846153846154
+Franois-Perrault,Parc-Extension,8,8,6,0.75
+Franois-Perrault,Pizza,8,2,2,0.4
+Franois-Perrault,Italian,8,2,1,0.2
+Franois-Perrault,French,8,2,1,0.2
+Franois-Perrault,Fast Food,8,2,2,0.4
+Franois-Perrault,South-East Asian,8,2,2,0.4
+Franois-Perrault,Mediterranean,8,2,2,0.4
+Franois-Perrault,East Asian,8,2,2,0.4
+Franois-Perrault,Iberian,8,2,2,0.4
+Franois-Perrault,Middle Eastern,8,2,2,0.4
+Franois-Perrault,Latin,8,2,2,0.4
+Franois-Perrault,Caf,8,2,2,0.4
+Franois-Perrault,South Asian,8,2,1,0.2
+Sainte-Lucie,Crmazie,9,9,7,0.7777777777777778
+Sainte-Lucie,Villeray,9,10,9,0.9473684210526315
+Sainte-Lucie,Franois-Perrault,9,8,6,0.7058823529411765
+Sainte-Lucie,Sainte-Lucie,9,9,9,1.0
+Sainte-Lucie,Parc-Jarry,9,9,8,0.8888888888888888
+Sainte-Lucie,African,9,2,2,0.36363636363636365
+Sainte-Lucie,Gabriel-Sagard,9,7,6,0.75
+Sainte-Lucie,Ren-Goupil,9,5,3,0.42857142857142855
+Sainte-Lucie,Parc-Extension,9,8,6,0.7058823529411765
+Sainte-Lucie,Pizza,9,2,1,0.18181818181818182
+Sainte-Lucie,Italian,9,2,2,0.36363636363636365
+Sainte-Lucie,French,9,2,2,0.36363636363636365
+Sainte-Lucie,Fast Food,9,2,2,0.36363636363636365
+Sainte-Lucie,South-East Asian,9,2,2,0.36363636363636365
+Sainte-Lucie,Mediterranean,9,2,1,0.18181818181818182
+Sainte-Lucie,East Asian,9,2,2,0.36363636363636365
+Sainte-Lucie,Iberian,9,2,1,0.18181818181818182
+Sainte-Lucie,Middle Eastern,9,2,2,0.36363636363636365
+Sainte-Lucie,Latin,9,2,2,0.36363636363636365
+Sainte-Lucie,Caf,9,2,2,0.36363636363636365
+Sainte-Lucie,South Asian,9,2,2,0.36363636363636365
+Parc-Jarry,Crmazie,9,9,8,0.8888888888888888
+Parc-Jarry,Villeray,9,10,9,0.9473684210526315
+Parc-Jarry,Franois-Perrault,9,8,7,0.8235294117647058
+Parc-Jarry,Sainte-Lucie,9,9,8,0.8888888888888888
+Parc-Jarry,Parc-Jarry,9,9,9,1.0
+Parc-Jarry,African,9,2,2,0.36363636363636365
+Parc-Jarry,Gabriel-Sagard,9,7,6,0.75
+Parc-Jarry,Ren-Goupil,9,5,4,0.5714285714285714
+Parc-Jarry,Parc-Extension,9,8,7,0.8235294117647058
+Parc-Jarry,Pizza,9,2,2,0.36363636363636365
+Parc-Jarry,Italian,9,2,2,0.36363636363636365
+Parc-Jarry,French,9,2,2,0.36363636363636365
+Parc-Jarry,Fast Food,9,2,2,0.36363636363636365
+Parc-Jarry,South-East Asian,9,2,2,0.36363636363636365
+Parc-Jarry,Mediterranean,9,2,1,0.18181818181818182
+Parc-Jarry,East Asian,9,2,2,0.36363636363636365
+Parc-Jarry,Iberian,9,2,2,0.36363636363636365
+Parc-Jarry,Middle Eastern,9,2,2,0.36363636363636365
+Parc-Jarry,Latin,9,2,2,0.36363636363636365
+Parc-Jarry,Caf,9,2,2,0.36363636363636365
+Parc-Jarry,South Asian,9,2,2,0.36363636363636365
+African,Crmazie,2,9,2,0.36363636363636365
+African,Villeray,2,10,2,0.3333333333333333
+African,Franois-Perrault,2,8,2,0.4
+African,Sainte-Lucie,2,9,2,0.36363636363636365
+African,Parc-Jarry,2,9,2,0.36363636363636365
+African,African,2,2,2,1.0
+African,Gabriel-Sagard,2,7,1,0.2222222222222222
+African,Ren-Goupil,2,5,1,0.2857142857142857
+African,Parc-Extension,2,8,1,0.2
+African,Pizza,2,2,1,0.5
+African,Italian,2,2,1,0.5
+African,French,2,2,1,0.5
+African,Fast Food,2,2,1,0.5
+African,South-East Asian,2,2,1,0.5
+African,Mediterranean,2,2,1,0.5
+African,East Asian,2,2,1,0.5
+African,Iberian,2,2,1,0.5
+African,Middle Eastern,2,2,1,0.5
+African,Latin,2,2,1,0.5
+African,Caf,2,2,1,0.5
+African,South Asian,2,2,1,0.5
+Gabriel-Sagard,Crmazie,7,9,6,0.75
+Gabriel-Sagard,Villeray,7,10,7,0.8235294117647058
+Gabriel-Sagard,Franois-Perrault,7,8,6,0.8
+Gabriel-Sagard,Sainte-Lucie,7,9,6,0.75
+Gabriel-Sagard,Parc-Jarry,7,9,6,0.75
+Gabriel-Sagard,African,7,2,1,0.2222222222222222
+Gabriel-Sagard,Gabriel-Sagard,7,7,7,1.0
+Gabriel-Sagard,Ren-Goupil,7,5,3,0.5
+Gabriel-Sagard,Parc-Extension,7,8,6,0.8
+Gabriel-Sagard,Pizza,7,2,1,0.2222222222222222
+Gabriel-Sagard,Italian,7,2,2,0.4444444444444444
+Gabriel-Sagard,French,7,2,2,0.4444444444444444
+Gabriel-Sagard,Fast Food,7,2,2,0.4444444444444444
+Gabriel-Sagard,South-East Asian,7,2,2,0.4444444444444444
+Gabriel-Sagard,Mediterranean,7,2,2,0.4444444444444444
+Gabriel-Sagard,East Asian,7,2,2,0.4444444444444444
+Gabriel-Sagard,Iberian,7,2,1,0.2222222222222222
+Gabriel-Sagard,Middle Eastern,7,2,2,0.4444444444444444
+Gabriel-Sagard,Latin,7,2,2,0.4444444444444444
+Gabriel-Sagard,Caf,7,2,2,0.4444444444444444
+Gabriel-Sagard,South Asian,7,2,1,0.2222222222222222
+Ren-Goupil,Crmazie,5,9,4,0.5714285714285714
+Ren-Goupil,Villeray,5,10,5,0.6666666666666666
+Ren-Goupil,Franois-Perrault,5,8,4,0.6153846153846154
+Ren-Goupil,Sainte-Lucie,5,9,3,0.42857142857142855
+Ren-Goupil,Parc-Jarry,5,9,4,0.5714285714285714
+Ren-Goupil,African,5,2,1,0.2857142857142857
+Ren-Goupil,Gabriel-Sagard,5,7,3,0.5
+Ren-Goupil,Ren-Goupil,5,5,5,1.0
+Ren-Goupil,Parc-Extension,5,8,4,0.6153846153846154
+Ren-Goupil,Pizza,5,2,2,0.5714285714285714
+Ren-Goupil,Italian,5,2,1,0.2857142857142857
+Ren-Goupil,French,5,2,1,0.2857142857142857
+Ren-Goupil,Fast Food,5,2,1,0.2857142857142857
+Ren-Goupil,South-East Asian,5,2,1,0.2857142857142857
+Ren-Goupil,Mediterranean,5,2,1,0.2857142857142857
+Ren-Goupil,East Asian,5,2,1,0.2857142857142857
+Ren-Goupil,Iberian,5,2,1,0.2857142857142857
+Ren-Goupil,Middle Eastern,5,2,2,0.5714285714285714
+Ren-Goupil,Latin,5,2,2,0.5714285714285714
+Ren-Goupil,Caf,5,2,1,0.2857142857142857
+Ren-Goupil,South Asian,5,2,1,0.2857142857142857
+Parc-Extension,Crmazie,8,9,6,0.7058823529411765
+Parc-Extension,Villeray,8,10,8,0.8888888888888888
+Parc-Extension,Franois-Perrault,8,8,6,0.75
+Parc-Extension,Sainte-Lucie,8,9,6,0.7058823529411765
+Parc-Extension,Parc-Jarry,8,9,7,0.8235294117647058
+Parc-Extension,African,8,2,1,0.2
+Parc-Extension,Gabriel-Sagard,8,7,6,0.8
+Parc-Extension,Ren-Goupil,8,5,4,0.6153846153846154
+Parc-Extension,Parc-Extension,8,8,8,1.0
+Parc-Extension,Pizza,8,2,2,0.4
+Parc-Extension,Italian,8,2,1,0.2
+Parc-Extension,French,8,2,2,0.4
+Parc-Extension,Fast Food,8,2,2,0.4
+Parc-Extension,South-East Asian,8,2,2,0.4
+Parc-Extension,Mediterranean,8,2,2,0.4
+Parc-Extension,East Asian,8,2,1,0.2
+Parc-Extension,Iberian,8,2,2,0.4
+Parc-Extension,Middle Eastern,8,2,2,0.4
+Parc-Extension,Latin,8,2,2,0.4
+Parc-Extension,Caf,8,2,2,0.4
+Parc-Extension,South Asian,8,2,2,0.4
+Pizza,Crmazie,2,9,2,0.36363636363636365
+Pizza,Villeray,2,10,2,0.3333333333333333
+Pizza,Franois-Perrault,2,8,2,0.4
+Pizza,Sainte-Lucie,2,9,1,0.18181818181818182
+Pizza,Parc-Jarry,2,9,2,0.36363636363636365
+Pizza,African,2,2,1,0.5
+Pizza,Gabriel-Sagard,2,7,1,0.2222222222222222
+Pizza,Ren-Goupil,2,5,2,0.5714285714285714
+Pizza,Parc-Extension,2,8,2,0.4
+Pizza,Pizza,2,2,2,1.0
+Pizza,Italian,2,2,1,0.5
+Pizza,French,2,2,1,0.5
+Pizza,Fast Food,2,2,1,0.5
+Pizza,South-East Asian,2,2,1,0.5
+Pizza,Mediterranean,2,2,1,0.5
+Pizza,East Asian,2,2,1,0.5
+Pizza,Iberian,2,2,1,0.5
+Pizza,Middle Eastern,2,2,1,0.5
+Pizza,Latin,2,2,1,0.5
+Pizza,Caf,2,2,1,0.5
+Pizza,South Asian,2,2,1,0.5
+Italian,Crmazie,2,9,2,0.36363636363636365
+Italian,Villeray,2,10,2,0.3333333333333333
+Italian,Franois-Perrault,2,8,1,0.2
+Italian,Sainte-Lucie,2,9,2,0.36363636363636365
+Italian,Parc-Jarry,2,9,2,0.36363636363636365
+Italian,African,2,2,1,0.5
+Italian,Gabriel-Sagard,2,7,2,0.4444444444444444
+Italian,Ren-Goupil,2,5,1,0.2857142857142857
+Italian,Parc-Extension,2,8,1,0.2
+Italian,Pizza,2,2,1,0.5
+Italian,Italian,2,2,2,1.0
+Italian,French,2,2,1,0.5
+Italian,Fast Food,2,2,1,0.5
+Italian,South-East Asian,2,2,1,0.5
+Italian,Mediterranean,2,2,1,0.5
+Italian,East Asian,2,2,1,0.5
+Italian,Iberian,2,2,1,0.5
+Italian,Middle Eastern,2,2,1,0.5
+Italian,Latin,2,2,1,0.5
+Italian,Caf,2,2,1,0.5
+Italian,South Asian,2,2,1,0.5
+French,Crmazie,2,9,2,0.36363636363636365
+French,Villeray,2,10,2,0.3333333333333333
+French,Franois-Perrault,2,8,1,0.2
+French,Sainte-Lucie,2,9,2,0.36363636363636365
+French,Parc-Jarry,2,9,2,0.36363636363636365
+French,African,2,2,1,0.5
+French,Gabriel-Sagard,2,7,2,0.4444444444444444
+French,Ren-Goupil,2,5,1,0.2857142857142857
+French,Parc-Extension,2,8,2,0.4
+French,Pizza,2,2,1,0.5
+French,Italian,2,2,1,0.5
+French,French,2,2,2,1.0
+French,Fast Food,2,2,1,0.5
+French,South-East Asian,2,2,1,0.5
+French,Mediterranean,2,2,1,0.5
+French,East Asian,2,2,1,0.5
+French,Iberian,2,2,1,0.5
+French,Middle Eastern,2,2,1,0.5
+French,Latin,2,2,1,0.5
+French,Caf,2,2,1,0.5
+French,South Asian,2,2,1,0.5
+Fast Food,Crmazie,2,9,2,0.36363636363636365
+Fast Food,Villeray,2,10,2,0.3333333333333333
+Fast Food,Franois-Perrault,2,8,2,0.4
+Fast Food,Sainte-Lucie,2,9,2,0.36363636363636365
+Fast Food,Parc-Jarry,2,9,2,0.36363636363636365
+Fast Food,African,2,2,1,0.5
+Fast Food,Gabriel-Sagard,2,7,2,0.4444444444444444
+Fast Food,Ren-Goupil,2,5,1,0.2857142857142857
+Fast Food,Parc-Extension,2,8,2,0.4
+Fast Food,Pizza,2,2,1,0.5
+Fast Food,Italian,2,2,1,0.5
+Fast Food,French,2,2,1,0.5
+Fast Food,Fast Food,2,2,2,1.0
+Fast Food,South-East Asian,2,2,1,0.5
+Fast Food,Mediterranean,2,2,1,0.5
+Fast Food,East Asian,2,2,1,0.5
+Fast Food,Iberian,2,2,1,0.5
+Fast Food,Middle Eastern,2,2,1,0.5
+Fast Food,Latin,2,2,1,0.5
+Fast Food,Caf,2,2,1,0.5
+Fast Food,South Asian,2,2,1,0.5
+South-East Asian,Crmazie,2,9,2,0.36363636363636365
+South-East Asian,Villeray,2,10,2,0.3333333333333333
+South-East Asian,Franois-Perrault,2,8,2,0.4
+South-East Asian,Sainte-Lucie,2,9,2,0.36363636363636365
+South-East Asian,Parc-Jarry,2,9,2,0.36363636363636365
+South-East Asian,African,2,2,1,0.5
+South-East Asian,Gabriel-Sagard,2,7,2,0.4444444444444444
+South-East Asian,Ren-Goupil,2,5,1,0.2857142857142857
+South-East Asian,Parc-Extension,2,8,2,0.4
+South-East Asian,Pizza,2,2,1,0.5
+South-East Asian,Italian,2,2,1,0.5
+South-East Asian,French,2,2,1,0.5
+South-East Asian,Fast Food,2,2,1,0.5
+South-East Asian,South-East Asian,2,2,2,1.0
+South-East Asian,Mediterranean,2,2,1,0.5
+South-East Asian,East Asian,2,2,1,0.5
+South-East Asian,Iberian,2,2,1,0.5
+South-East Asian,Middle Eastern,2,2,1,0.5
+South-East Asian,Latin,2,2,1,0.5
+South-East Asian,Caf,2,2,1,0.5
+South-East Asian,South Asian,2,2,1,0.5
+Mediterranean,Crmazie,2,9,1,0.18181818181818182
+Mediterranean,Villeray,2,10,2,0.3333333333333333
+Mediterranean,Franois-Perrault,2,8,2,0.4
+Mediterranean,Sainte-Lucie,2,9,1,0.18181818181818182
+Mediterranean,Parc-Jarry,2,9,1,0.18181818181818182
+Mediterranean,African,2,2,1,0.5
+Mediterranean,Gabriel-Sagard,2,7,2,0.4444444444444444
+Mediterranean,Ren-Goupil,2,5,1,0.2857142857142857
+Mediterranean,Parc-Extension,2,8,2,0.4
+Mediterranean,Pizza,2,2,1,0.5
+Mediterranean,Italian,2,2,1,0.5
+Mediterranean,French,2,2,1,0.5
+Mediterranean,Fast Food,2,2,1,0.5
+Mediterranean,South-East Asian,2,2,1,0.5
+Mediterranean,Mediterranean,2,2,2,1.0
+Mediterranean,East Asian,2,2,1,0.5
+Mediterranean,Iberian,2,2,1,0.5
+Mediterranean,Middle Eastern,2,2,1,0.5
+Mediterranean,Latin,2,2,1,0.5
+Mediterranean,Caf,2,2,1,0.5
+Mediterranean,South Asian,2,2,1,0.5
+East Asian,Crmazie,2,9,2,0.36363636363636365
+East Asian,Villeray,2,10,2,0.3333333333333333
+East Asian,Franois-Perrault,2,8,2,0.4
+East Asian,Sainte-Lucie,2,9,2,0.36363636363636365
+East Asian,Parc-Jarry,2,9,2,0.36363636363636365
+East Asian,African,2,2,1,0.5
+East Asian,Gabriel-Sagard,2,7,2,0.4444444444444444
+East Asian,Ren-Goupil,2,5,1,0.2857142857142857
+East Asian,Parc-Extension,2,8,1,0.2
+East Asian,Pizza,2,2,1,0.5
+East Asian,Italian,2,2,1,0.5
+East Asian,French,2,2,1,0.5
+East Asian,Fast Food,2,2,1,0.5
+East Asian,South-East Asian,2,2,1,0.5
+East Asian,Mediterranean,2,2,1,0.5
+East Asian,East Asian,2,2,2,1.0
+East Asian,Iberian,2,2,1,0.5
+East Asian,Middle Eastern,2,2,1,0.5
+East Asian,Latin,2,2,1,0.5
+East Asian,Caf,2,2,1,0.5
+East Asian,South Asian,2,2,1,0.5
+Iberian,Crmazie,2,9,2,0.36363636363636365
+Iberian,Villeray,2,10,2,0.3333333333333333
+Iberian,Franois-Perrault,2,8,2,0.4
+Iberian,Sainte-Lucie,2,9,1,0.18181818181818182
+Iberian,Parc-Jarry,2,9,2,0.36363636363636365
+Iberian,African,2,2,1,0.5
+Iberian,Gabriel-Sagard,2,7,1,0.2222222222222222
+Iberian,Ren-Goupil,2,5,1,0.2857142857142857
+Iberian,Parc-Extension,2,8,2,0.4
+Iberian,Pizza,2,2,1,0.5
+Iberian,Italian,2,2,1,0.5
+Iberian,French,2,2,1,0.5
+Iberian,Fast Food,2,2,1,0.5
+Iberian,South-East Asian,2,2,1,0.5
+Iberian,Mediterranean,2,2,1,0.5
+Iberian,East Asian,2,2,1,0.5
+Iberian,Iberian,2,2,2,1.0
+Iberian,Middle Eastern,2,2,1,0.5
+Iberian,Latin,2,2,1,0.5
+Iberian,Caf,2,2,1,0.5
+Iberian,South Asian,2,2,1,0.5
+Middle Eastern,Crmazie,2,9,2,0.36363636363636365
+Middle Eastern,Villeray,2,10,2,0.3333333333333333
+Middle Eastern,Franois-Perrault,2,8,2,0.4
+Middle Eastern,Sainte-Lucie,2,9,2,0.36363636363636365
+Middle Eastern,Parc-Jarry,2,9,2,0.36363636363636365
+Middle Eastern,African,2,2,1,0.5
+Middle Eastern,Gabriel-Sagard,2,7,2,0.4444444444444444
+Middle Eastern,Ren-Goupil,2,5,2,0.5714285714285714
+Middle Eastern,Parc-Extension,2,8,2,0.4
+Middle Eastern,Pizza,2,2,1,0.5
+Middle Eastern,Italian,2,2,1,0.5
+Middle Eastern,French,2,2,1,0.5
+Middle Eastern,Fast Food,2,2,1,0.5
+Middle Eastern,South-East Asian,2,2,1,0.5
+Middle Eastern,Mediterranean,2,2,1,0.5
+Middle Eastern,East Asian,2,2,1,0.5
+Middle Eastern,Iberian,2,2,1,0.5
+Middle Eastern,Middle Eastern,2,2,2,1.0
+Middle Eastern,Latin,2,2,1,0.5
+Middle Eastern,Caf,2,2,1,0.5
+Middle Eastern,South Asian,2,2,1,0.5
+Latin,Crmazie,2,9,2,0.36363636363636365
+Latin,Villeray,2,10,2,0.3333333333333333
+Latin,Franois-Perrault,2,8,2,0.4
+Latin,Sainte-Lucie,2,9,2,0.36363636363636365
+Latin,Parc-Jarry,2,9,2,0.36363636363636365
+Latin,African,2,2,1,0.5
+Latin,Gabriel-Sagard,2,7,2,0.4444444444444444
+Latin,Ren-Goupil,2,5,2,0.5714285714285714
+Latin,Parc-Extension,2,8,2,0.4
+Latin,Pizza,2,2,1,0.5
+Latin,Italian,2,2,1,0.5
+Latin,French,2,2,1,0.5
+Latin,Fast Food,2,2,1,0.5
+Latin,South-East Asian,2,2,1,0.5
+Latin,Mediterranean,2,2,1,0.5
+Latin,East Asian,2,2,1,0.5
+Latin,Iberian,2,2,1,0.5
+Latin,Middle Eastern,2,2,1,0.5
+Latin,Latin,2,2,2,1.0
+Latin,Caf,2,2,1,0.5
+Latin,South Asian,2,2,1,0.5
+Caf,Crmazie,2,9,2,0.36363636363636365
+Caf,Villeray,2,10,2,0.3333333333333333
+Caf,Franois-Perrault,2,8,2,0.4
+Caf,Sainte-Lucie,2,9,2,0.36363636363636365
+Caf,Parc-Jarry,2,9,2,0.36363636363636365
+Caf,African,2,2,1,0.5
+Caf,Gabriel-Sagard,2,7,2,0.4444444444444444
+Caf,Ren-Goupil,2,5,1,0.2857142857142857
+Caf,Parc-Extension,2,8,2,0.4
+Caf,Pizza,2,2,1,0.5
+Caf,Italian,2,2,1,0.5
+Caf,French,2,2,1,0.5
+Caf,Fast Food,2,2,1,0.5
+Caf,South-East Asian,2,2,1,0.5
+Caf,Mediterranean,2,2,1,0.5
+Caf,East Asian,2,2,1,0.5
+Caf,Iberian,2,2,1,0.5
+Caf,Middle Eastern,2,2,1,0.5
+Caf,Latin,2,2,1,0.5
+Caf,Caf,2,2,2,1.0
+Caf,South Asian,2,2,1,0.5
+South Asian,Crmazie,2,9,1,0.18181818181818182
+South Asian,Villeray,2,10,2,0.3333333333333333
+South Asian,Franois-Perrault,2,8,1,0.2
+South Asian,Sainte-Lucie,2,9,2,0.36363636363636365
+South Asian,Parc-Jarry,2,9,2,0.36363636363636365
+South Asian,African,2,2,1,0.5
+South Asian,Gabriel-Sagard,2,7,1,0.2222222222222222
+South Asian,Ren-Goupil,2,5,1,0.2857142857142857
+South Asian,Parc-Extension,2,8,2,0.4
+South Asian,Pizza,2,2,1,0.5
+South Asian,Italian,2,2,1,0.5
+South Asian,French,2,2,1,0.5
+South Asian,Fast Food,2,2,1,0.5
+South Asian,South-East Asian,2,2,1,0.5
+South Asian,Mediterranean,2,2,1,0.5
+South Asian,East Asian,2,2,1,0.5
+South Asian,Iberian,2,2,1,0.5
+South Asian,Middle Eastern,2,2,1,0.5
+South Asian,Latin,2,2,1,0.5
+South Asian,Caf,2,2,1,0.5
+South Asian,South Asian,2,2,2,1.0
